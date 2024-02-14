@@ -50,6 +50,14 @@ Here you will find a collection of all my notes for Class 102 & Class 201. Refer
 
 ### Class 401
 
-Class 401 Reading Notes coming soon
-
+| 401 |  Notes  |
+|-------|-------|
+| [Class 1 Notes](https://cacosta12345.github.io/reading-notes/401/01) | [Class 2 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
+| [Class 3 Notes](https://cacosta12345.github.io/reading-notes/401/03) | [Class 4 Notes](https://cacosta12345.github.io/reading-notes/401/04) |
+| [Class 5 Notes](https://cacosta12345.github.io/reading-notes/401/05) | [Class 6 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
+| [Class 7 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 8 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
+| [Class 9 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 10 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
+| [Class 11 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 12 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
+| [Class 13 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 14 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
+| [Class 15 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 16 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
 Check out the rest of my [Github Portfolio!](https://github.com/cacosta12345)
