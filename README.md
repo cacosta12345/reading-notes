@@ -46,6 +46,7 @@ Here you will find a collection of all my notes for Class 102 & Class 201. Refer
 | [Class 11 Notes](https://cacosta12345.github.io/reading-notes/class301notes/read-class11) | [Class 12 Notes](https://cacosta12345.github.io/reading-notes/class301notes/read-class12) |
 | [Class 13 Notes](https://cacosta12345.github.io/reading-notes/class301notes/read-class13) | [Class 14 Notes](https://cacosta12345.github.io/reading-notes/class301notes/read-class14) |
 | [Class 15 Notes](https://cacosta12345.github.io/reading-notes/class301notes/read-class15) | [Class 16 Notes](https://cacosta12345.github.io/reading-notes/class301notes/read-class16) |
+| [Class 17 Notes](https://cacosta12345.github.io/reading-notes/class301notes/read-class17) | [Class 18 Notes](https://cacosta12345.github.io/reading-notes/class301notes/read-class18) |
 
 ### Class 401
 
