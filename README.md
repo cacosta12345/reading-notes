@@ -57,7 +57,7 @@ Here you will find a collection of all my notes for Class 102 & Class 201. Refer
 | [Class 5 Notes](https://cacosta12345.github.io/reading-notes/401/05) | [Class 6 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
 | [Class 7 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 8 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
 | [Class 9 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 10 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
-| [Class 11 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 12 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
+| [Class 11 Notes](https://cacosta12345.github.io/reading-notes/401/11) | [Class 12 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
 | [Class 13 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 14 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
 | [Class 15 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 16 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
 
