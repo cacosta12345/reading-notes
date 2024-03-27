@@ -60,4 +60,13 @@ Here you will find a collection of all my notes for Class 102 & Class 201. Refer
 | [Class 11 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 12 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
 | [Class 13 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 14 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
 | [Class 15 Notes](https://cacosta12345.github.io/reading-notes/301/01) | [Class 16 Notes](https://cacosta12345.github.io/reading-notes/401/02) |
+
+## My Resume
+
+
 Check out the rest of my [Github Portfolio!](https://github.com/cacosta12345)
+
+
+### SQL Practice
+
+[SQL Practice](/SQL%20Practice/practice.md)
